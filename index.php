@@ -1,4 +1,4 @@
-<?php include_once 'includes/admin/header.php'; ?>
+<?php include_once './includes/header.php'; ?>
 
 <div class="home-content">
         <div class="overview-boxes">
@@ -170,4 +170,4 @@
     </section>
 
 
-<?php include_once 'includes/admin/footer.php'; ?>
+<?php include_once './includes/footer.php'; ?>
